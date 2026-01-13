@@ -1,6 +1,11 @@
-> Contact
-	- e-mail: vessartrk@gmail.com
-	- phone: 07511 720 127 
+ Contact details
+    - e-mail: vessartrk@gmail.com
+    - phone: 07511 720 127
+    - www.linkedin.com/in/michael-vessa-7ab357101
+    - www.facebook.com/Michael.Vessa.Uk
+    - www.youtube.com/@Guy_vs_PC
+    - www.github.com/vessartrk
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 	I have created this custom program in 2026 to support our MHE manager with his work-routine,
 to help him with process of training individuals on MHE machinery to have all records and bookings
@@ -30,4 +35,5 @@ If any question, don't you worry of contacting me
 
 - Additional "Delete" button, actually do not delete the booking, but clear date information, so it becomes 
 	hidden in the database
+
 
