@@ -1,6 +1,6 @@
 VBA_EXCEL_MHE_Training_Calendar
 
-> Contact
+> Contact details
 	- e-mail: vessartrk@gmail.com
 	- phone: 07511 720 127
  	- www.linkedin.com/in/michael-vessa-7ab357101
