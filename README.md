@@ -7,8 +7,6 @@ VBA_EXCEL_MHE_Training_Calendar
     - www.facebook.com/Michael.Vessa.Uk
     - www.youtube.com/@Guy_vs_PC
     - www.github.com/vessartrk
-	
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 > Hello Everyone!
 
