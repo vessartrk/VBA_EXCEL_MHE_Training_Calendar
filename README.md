@@ -5,7 +5,6 @@ VBA_EXCEL_MHE_Training_Calendar
     - phone: 07511 720 127
     - www.linkedin.com/in/michael-vessa-7ab357101
     - www.facebook.com/Michael.Vessa.Uk
-    - www.youtube.com/@Guy_vs_PC
     - www.github.com/vessartrk
 
 > Hello Everyone!
